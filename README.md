@@ -1,2 +1,2 @@
-# Like_Sushida
+# sushidanopakuri
 make sushida
