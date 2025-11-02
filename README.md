@@ -1,2 +1,2 @@
-# sushidanopakuri
-sushidaぁぁぁ
+# Like_Sushida
+make sushida
